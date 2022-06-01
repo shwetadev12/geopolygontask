@@ -1,0 +1,11 @@
+asgiref==3.5.1
+Babel==2.10.1
+backports.zoneinfo==0.2.1
+Django==4.0.4
+django-geojson==3.2.1
+django-money==2.1.1
+djangorestframework==3.13.1
+jsonfield==3.1.0
+py-moneyed==1.2
+pytz==2022.1
+sqlparse==0.4.2
